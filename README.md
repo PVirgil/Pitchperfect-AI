@@ -3,7 +3,7 @@
 **PitchPerfect AI** turns raw startup data into investor-ready pitch decks, one-pagers, and VC Q&A. It's a full-stack AI tool for founders, accelerators, and pitch consultants.
 
 ## 🚀 Live App
-[Launch PitchPerfect AI](https://your-streamlit-link.com)
+[PitchPerfect AI](https://pitchperfect-ai-site.streamlit.app)
 
 ## 🧠 Features
 - 📊 Upload startup data
